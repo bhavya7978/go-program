@@ -7,7 +7,7 @@ func main() {
 		"Corden_James":   []string{"IceCream", "Makeup"},
 		"Maggie_Deliyah": []string{"Chocolate", "Chips"},
 	}
-	fmt.Println(m)
+	//fmt.Println(m)
 	//Add record in map
 	m["Styles_Harry"] = []string{"Louis", "Music", "Banana"}
 	//Delete record from map
