@@ -1,0 +1,5 @@
+1.Create a table "USERS" having column "user_id"(PK),"first_name","last_name" And "age".
+2.Create atleast 10 users having different first/last name combination.
+3.Create a handler using  GET HTTP verb.
+4.Pass "Search String" in the body of the request. 
+5.Display all the responses.
